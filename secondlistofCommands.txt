@@ -1,0 +1,4 @@
+vi filename -> to view the file
+git restore filename -> restores the deleted file
+git log -> shows the commited log 
+git stash pop -> to bring the file that is saved but not commited and kept in queue
