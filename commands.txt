@@ -6,3 +6,8 @@ touch filename -> creates a file
 git add filename -> adds file to the main to be tracked
 git status -> gives status of the main any untracked files
 git commit -m "" -> to commit changes to file
+git branch <branch name> -> to create new branch on main
+git checkout <branch name> -> to work on newly created branch
+git commit -> to commit changes on new branch 
+git checkout main -> to work on main
+git merge <branch name> -> to merge branch on main and later do a checkout
