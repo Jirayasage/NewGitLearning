@@ -1,0 +1,8 @@
+ls- shows list of files in the current directory
+mkdir- creates a directory
+cd - changes to that directory it is given
+git init -> makes the directory it as main
+touch filename -> creates a file
+git add filename -> adds file to the main to be tracked
+git status -> gives status of the main any untracked files
+git commit -m "" -> to commit changes to file
